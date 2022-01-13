@@ -8,19 +8,10 @@ Actividades del dia Martes
 R = Java es un lenguaje hibrido que hace tanto la complicación como la interpretación de codigo que se ejecuta
 4. Create an algorithm to calculate the equivalent of your local currencty to USD
 R = 
-  - Proceso de conversion de dolar a cordoba
-
-Escribir "Ingrese el monto en cordoba:"
-
-Leer Cordoba
-
-Dolar = 36.00
-
-Conversion <- Cordoba*Dolar
-
-Escribir "El cambio a dolar es: ",Conversion
-
-FinProceso
+ 
+  float usd, local and convert;
+  
+  
 
 6. Read about Pseudocode here, you can also find some examples here, anwser to the question: Why is pseudocode helpful?
 R = 
